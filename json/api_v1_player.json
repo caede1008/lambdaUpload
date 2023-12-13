@@ -1,0 +1,605 @@
+{   
+    "players" :[
+        {     
+            "ID_001" : {
+                "name": "朝倉 未来",
+                "weight": "Feather",
+                "height": 177,
+                "reach": 178,
+                "img": "./001.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 100,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_002" : {
+                "name": "萩原 京平",
+                "weight": "Feather",
+                "height": 173,
+                "reach": 176,
+                "img": "./002.jpg",
+                "age": 26,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            
+            "ID_003" : {
+                "name": "クレベル・コイケ",
+                "weight": "Feather",
+                "height": 173,
+                "reach": 176,
+                "img": "./003.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_004" : {
+                "name": "朝倉 海",
+                "weight": "Bantam",
+                "height": 177,
+                "reach": 178,
+                "img": "./004.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 10
+                }
+            },
+
+
+            "ID_006" : {
+                "name": "元谷 友貴",
+                "weight": "Bantam",
+                "height": 173,
+                "reach": 176,
+                "img": "./006.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 1,
+                    "grappling": 1,
+                    "mentality": 1,
+                    "intelligence": 1,
+                    "wrestling": 1,
+                    "stamina": 1
+                }
+            },
+
+        
+
+            "ID_007" : {
+                "name": "アキラ",
+                "weight": "Light",
+                "height": 173,
+                "reach": 176,
+                "img": "./007.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_008" : {
+                "name": "芦田 崇宏",
+                "weight": "Feather",
+                "height": 173,
+                "reach": 176,
+                "img": "./008.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_010" : {
+                "name": "イゴール・タナベ",
+                "weight": "LightHeavy",
+                "height": 173,
+                "reach": 176,
+                "img": "./010.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_011" : {
+                "name": "今成 正和",
+                "weight": "Bantam",
+                "height": 173,
+                "reach": 176,
+                "img": "./011.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_012" : {
+                "name": "ヴガール・ケラモフ",
+                "weight": "Feather",
+                "height": 173,
+                "reach": 176,
+                "img": "./012.jpg",
+                "age": 31,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_013" : {
+                "name": "宇佐美正パトリック",
+                "weight": "Feather",
+                "height": 173,
+                "reach": 176,
+                "img": "./013.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_014" : {
+                "name": "牛久 絢太郎",
+                "weight": "Feather",
+                "height": 173,
+                "reach": 176,
+                "img": "./014.jpg",
+                "age": 26,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_015" : {
+                "name": "扇久保 博正",
+                "weight": "Bantam",
+                "height": 173,
+                "reach": 176,
+                "img": "./015.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_016" : {
+                "name": "太田 忍",
+                "weight": "Bantam",
+                "height": 173,
+                "reach": 176,
+                "img": "./016.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_017" : {
+                "name": "金原 正徳",
+                "weight": "Feather",
+                "height": 173,
+                "reach": 176,
+                "img": "./017.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_018" : {
+                "name": "金太郎",
+                "weight": "Bantam",
+                "height": 173,
+                "reach": 176,
+                "img": "./018.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_019" : {
+                "name": "倉本 一真",
+                "weight": "Bantam",
+                "height": 173,
+                "reach": 176,
+                "img": "./019.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_020" : {
+                "name": "斎藤 裕",
+                "weight": "Feather",
+                "height": 173,
+                "reach": 176,
+                "img": "./020.jpg",
+                "age": 33,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_021" : {
+                "name": "佐々木 憂流迦",
+                "weight": "Feather",
+                "height": 173,
+                "reach": 176,
+                "img": "./021.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_022" : {
+                "name": "白川 陸斗",
+                "weight": "Feather",
+                "height": 173,
+                "reach": 176,
+                "img": "./022.jpg",
+                "age": 31,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_023" : {
+                "name": "ジョン・マカパ",
+                "weight": "Feather",
+                "height": 173,
+                "reach": 176,
+                "img": "./023.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_024" : {
+                "name": "鈴木 千裕",
+                "weight": "Feather",
+                "height": 173,
+                "reach": 176,
+                "img": "./024.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_025" : {
+                "name": "スダリオ 剛",
+                "weight": "LightHeavy",
+                "height": 173,
+                "reach": 176,
+                "img": "./025.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_026" : {
+                "name": "スパイク・カーライル",
+                "weight": "Light",
+                "height": 173,
+                "reach": 176,
+                "img": "./026.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_027" : {
+                "name": "関根 シュレック 秀樹",
+                "weight": "LightHeavy",
+                "height": 173,
+                "reach": 176,
+                "img": "./027.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_028" : {
+                "name": "貴賢神",
+                "weight": "LightHeavy",
+                "height": 173,
+                "reach": 176,
+                "img": "./028.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_029" : {
+                "name": "武田 光司",
+                "weight": "Feather",
+                "height": 173,
+                "reach": 176,
+                "img": "./029.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_030" : {
+                "name": "トフィック・ムサエフ",
+                "weight": "Light",
+                "height": 173,
+                "reach": 176,
+                "img": "./030.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_032" : {
+                "name": "平本 蓮",
+                "weight": "Feather",
+                "height": 173,
+                "reach": 176,
+                "img": "./032.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_033" : {
+                "name": "ベイノア",
+                "weight": "Light",
+                "height": 173,
+                "reach": 176,
+                "img": "./033.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_034" : {
+                "name": "ホベルト・サトシ・ソウザ",
+                "weight": "Light",
+                "height": 173,
+                "reach": 176,
+                "img": "./034.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_035" : {
+                "name": "堀江 圭功",
+                "weight": "Light",
+                "height": 173,
+                "reach": 176,
+                "img": "./035.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_036" : {
+                "name": "矢地 祐介",
+                "weight": "Light",
+                "height": 173,
+                "reach": 176,
+                "img": "./036.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_037" : {
+                "name": "横山 武司",
+                "weight": "Feather",
+                "height": 173,
+                "reach": 176,
+                "img": "./037.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            },
+
+            "ID_038" : {
+                "name": "ルイス・グスタボ",
+                "weight": "Light",
+                "height": 173,
+                "reach": 176,
+                "img": "./038.jpg",
+                "age": 29,
+                "parameter": {
+                    "striking": 3,
+                    "grappling": 2,
+                    "mentality": 2,
+                    "intelligence": 3,
+                    "wrestling": 3,
+                    "stamina": 4
+                }
+            }
+        }
+    ]
+    
+}
